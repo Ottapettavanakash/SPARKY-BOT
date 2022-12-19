@@ -18,7 +18,7 @@ global.packname = "SPARKY BOT"
 global.author = "By: Aswin"
 global.OwnerName = "Aswin Sparky"
 global.BotSourceCode = "https://github.com/Sparkymon777/SPARKY-BOT"
-global.SupportGroupLink = "https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"
+global.SupportGroupLink = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"
 global.sessionName = "session"
 
 // Prefix //
@@ -29,7 +29,7 @@ global.prefa = ['.']
 global.location = "Kerala, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' }
+global.vidmenu = { url: 'https://i.imgur.com/iaWuQRB.jpeg' }
 global.websitex = "https://github.com/Sparkymon777"
 global.lolhuman = "S P A R K Y"
 
