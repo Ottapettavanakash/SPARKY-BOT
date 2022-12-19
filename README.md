@@ -2,7 +2,7 @@
 
 <h1 align="center">SPARKY-BOT<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
+<img src="https://i.imgur.com/iaWuQRB.jpeg" alt="animated" width="255" height="480" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## DEPLOY ON RAILWAY 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/3GRp6m?referralCode=P8bW88)
 
 
 
