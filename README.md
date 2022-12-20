@@ -49,7 +49,7 @@ Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 - [`1st GC`](https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh)
 
-# NO NEED OF FORKING THIS REPO ⚠️
+#  Fork 👇🏻
 
 - FORK THE REPOSITORY [Here](https://github.com/Sparkymon777/SPARKY-BOT/fork)
 
@@ -67,7 +67,7 @@ pkg install wget
 pkg install imagemagick
 git clone https://github.com/Sparkymon777/SPARKY-BOT
 cd SPARKY-BOT
-npm start
+bash install.sh
 ```
 ## `For VPS`
 ```bash
@@ -79,7 +79,7 @@ apt apt install imagrmagick
 apt install bash
 git clone https://github.com/Sparkymon777/SPARKY-BOT
 cd SPARKY-BOT
-npm start
+bash install.sh
 ```
 ## `For 24/7 Activation (Termux)`
 ```bash
